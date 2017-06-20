@@ -3,7 +3,7 @@
    session_start(); 
 $rimg="";
 $rname="";
-$name=$_SESSION['ename'];
+$name="";
 $cno="";
 $ano="";
 $vcard="";
